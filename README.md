@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Youssra</h1>
 
-<h3 align="center">QA Engineer | Selenium | Java</h3>
+<h3 align="center">QA Junior | Selenium | Java</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning Selenium and Java
 - 🧪 I'm passionate about Software Testing
 - 💻 I'm building automation projects with Selenium
-- 📫 How to reach me: hamzabenabid00@gmail.com
+- 📫 How to reach me: youssraayari191@gmail.com
 
 ---
 
@@ -36,4 +36,4 @@
 ---
 
 ### 🔗 Connect with me
-youssraayari191@gmail.com
+https://www.linkedin.com/in/youssra-ayari/
